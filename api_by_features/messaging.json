@@ -36,7 +36,11 @@
 	    "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSMS_API",
 	    "working group": "Mozilla"
 	},
-        "ChromeApps": "",
+        "ChromeApps": {
+             "api": "Message Passing",	
+             "url": "https://developer.chrome.com/apps/messaging",
+             "working group": "Google"
+        },
         "Tizen": {
 	    "api": "Messaging API",
 	    "url": "https://developer.tizen.org/dev-guide/2.2.0/org.tizen.web.device.apireference/tizen/messaging.html",
