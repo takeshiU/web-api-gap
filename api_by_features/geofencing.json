@@ -21,7 +21,11 @@
         },
         "Cordova": "",
         "FirefoxOS": "",
-        "ChromeApps": "",
+        "ChromeApps": {
+            "api": "Geofencing API",
+            "url": "https://w3c.github.io/geofencing-api/",
+            "working group": "Google"
+        },
         "Tizen": "",
 	"Blackberry": {
 	    "api": "Geofencing (geomonitor.h)",
