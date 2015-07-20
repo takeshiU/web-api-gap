@@ -12,8 +12,16 @@
         "Android": "",
         "Windows 8": "",
         "Cordova": "",
-        "FirefoxOS": "",
-        "ChromeApps": "",
+        "FirefoxOS": { 
+             "api": "notification",
+             "url": "https://developer.mozilla.org/ja/docs/Web/API/notification",
+             "working group": "Mozilla"
+        },
+        "ChromeApps": {
+              "api": "chorome events",
+              "url": "https://developer.chrome.com/extensions/events",
+              "working group": "Google"
+        },
         "Tizen": {
 	    "api": "tizen.notification",
 	    "url": "https://developer.tizen.org/dev-guide/2.2.0/org.tizen.web.device.apireference/tizen/notification.html",
