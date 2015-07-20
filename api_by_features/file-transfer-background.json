@@ -27,7 +27,11 @@
         },
         "Cordova": "",
         "FirefoxOS": "",
-        "ChromeApps": "",
+        "ChromeApps": {
+            "api": "chrome.syncFileSystem",
+            "url": "https://developer.chrome.com/apps/syncFileSystem",
+            "working group": "Google"
+        },
         "Tizen": {
             "api": "tizen.download",
             "url": "https://developer.tizen.org/dev-guide/2.2.1/org.tizen.web.device.apireference/tizen/download.html",
