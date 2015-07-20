@@ -16,7 +16,11 @@
 	},
         "Windows 8": "",
         "Cordova": "",
-        "FirefoxOS": "",
+        "FirefoxOS": {
+             "api": "WebAPI/KeboardIME"	
+             "url": "https://wiki.mozilla.org/WebAPI/KeboardIME",
+             "working group": "Mozilla"
+        }
         "ChromeApps": {
 	    "api": "chrome.input.ime",
 	    "url": "https://developer.chrome.com/extensions/input_ime",
